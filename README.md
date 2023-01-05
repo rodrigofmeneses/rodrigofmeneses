@@ -7,5 +7,5 @@
 
 - 👋 Hi, I’m Rodrigo Meneses. Graduated in Applied Mathematics, Backend Developer with background in Optimization and Data Science
 - 👀 I’m currently interested all about Web Development.
-- 🌱 I’m currently learning Backend Developer with FastAPI Framework and Python ecosystem.
-- 📫 Ask me about anything on Python or Web Development and I will be happy to help you. 
+- 🌱 I’m currently learning Backend Developer with Python and Node ecosystem.
+- 📫 Ask me about anything on Python, Node, Optimization or Web Development and I will be happy to help you. 
